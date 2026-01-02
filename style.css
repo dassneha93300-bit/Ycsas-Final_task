@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e4b8b8;
+  margin: 0;
+  text-align: center;
+}
+
+.dark {
+  background: #121212;
+  color: white;
+}
+
+header {
+  background: #6c63ff;
+  color: white;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  background: #8c89d4;
+  color: white;
+}
+
+button:hover {
+  background: #554ee0;
+}
+
+.menu {
+  margin: 20px 0;
+  display: block;
+  
+}
+.skills{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.content {
+  height: 300px;
+  display: none;
+  background: white;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+.content ul{
+  list-style-position: inside;
+  
+  
+}
+.content li{
+  text-align: justify;
+  padding-left: 44%;
+ 
+  
+}
+.content h3{
+  padding-top: 40px;
+}
+.dark .content {
+  background: #1e1e1e;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+}
+
+footer {
+  margin-top: 30px;
+  padding: 10px;
+  background: #493a91;
+  color: white;
+  margin-left: 170px;
+  margin-right: 170px;
+}
