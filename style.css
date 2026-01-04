@@ -40,7 +40,7 @@ button:hover {
   margin-right: 30px;
 }
 .content li:hover {
-  background: #aeacd5;
+  background: #54da54;
 }
 .content {
   height: 300px;
@@ -91,7 +91,7 @@ button:hover {
   background-color: #8c89d4;
 }
 .content h3:hover {
-  background: #aeacd5;
+  background: #87e574;
 }
 .dark .content {
   background: #1e1e1e;
